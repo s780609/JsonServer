@@ -37,7 +37,7 @@
         "id": 7
     }
   ],
-  "data": [
+  "hrData": [
     {
       "title": "吳美金 Dawa Lisin ( 72歲, b.1949) | 秀姑巒阿美語",
       "skills": [ "測驗優級類", "測驗高級類", "族語振興人員研習" ],
@@ -68,6 +68,18 @@
       "address": "台北市中正區愛國西路100號100樓",
       "phone": "0955-123456, 02-23456789"
     }
+  ],
+  "hrLogin":[
+	  {
+		  "account":"test",
+		  "account":"test",
+		  "password":"123"
+	  },
+	  {
+		  "account":"test123",
+		  "password":"123456"
+		  "password":"123456"
+	  }
   ],
   "comments": [],
   "profile": {
