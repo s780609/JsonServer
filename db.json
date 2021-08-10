@@ -72,11 +72,13 @@
   "hrlogin":[
 	  {
 		  "account":"test",
-		  "password":"123"
+		  "password":"123",
+		  "token":"test123"
 	  },
 	  {
 		  "account":"test123",
-		  "password":"123456"
+		  "password":"123456",
+		  "token":"test123123456"
 	  }
   ],
   "comments": [],
