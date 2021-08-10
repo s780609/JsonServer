@@ -72,12 +72,10 @@
   "hrlogin":[
 	  {
 		  "account":"test",
-		  "account":"test",
 		  "password":"123"
 	  },
 	  {
 		  "account":"test123",
-		  "password":"123456"
 		  "password":"123456"
 	  }
   ],
