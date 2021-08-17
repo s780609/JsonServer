@@ -51,23 +51,41 @@
       "phone": "0955-123456, 02-23456789"
     },
     {
-      "title": "鱗莖 Dawa Lisin ( 72歲, b.1949) | BB阿美語",
+      "title": "鱗莖 fureya Lisin ( 72歲, b.1949) | BB阿美語",
       "skills": [ "aaaaaaaaaaaaa測驗優級類", "測驗高級類", "族語振興人員研習" ],
       "address": "台北市中正區愛國西路100號100樓",
       "phone": "0955-123456, 02-23456789"
     },
     {
-      "title": "素梅 Dawa Lisin ( 72歲, b.1949) | AA阿美語",
+      "title": "素梅 AFUA Lisin ( 73歲, b.1939) | AA阿美語",
       "skills": [ "bbbbbbbbbbbbbbb測驗優級類", "測驗高級類", "族語振興人員研習" ],
       "address": "台北市中正區愛國西路100號100樓",
       "phone": "0955-123456, 02-23456789"
     },
     {
-      "title": "阿災 Dawa Lisin ( 72歲, b.1949) | 阿美語",
+      "title": "阿災 Gura Lisin ( 75歲, b.2010) | 阿美語",
       "skills": [ "ccccccccccccccccccc測驗優級類", "測驗高級類", "族語振興人員研習" ],
       "address": "台北市中正區愛國西路100號100樓",
       "phone": "0955-123456, 02-23456789"
-    }
+    },
+	{
+      "title": "阿災 akira Lisin ( 56歲, b.1949) | 阿美語",
+      "skills": [ "ccccccccccccccccccc測驗優級類", "測驗高級類", "族語振興人員研習" ],
+      "address": "台北市中正區愛國西路100號100樓",
+      "phone": "0955-123456, 02-23456789"
+    },
+	{
+      "title": "斯卡羅 peko YA ( 62歲, b.1959) | 阿美語",
+      "skills": [ "ccccccccccccccccccc測驗優級類", "測驗高級類", "族語振興人員研習" ],
+      "address": "台北市中正區愛國西路100號100樓",
+      "phone": "0955-123456, 02-23456789"
+    },
+	{
+      "title": "關關雎鳩 kiryu Lisin ( 82歲, b.1899) | 阿美語",
+      "skills": [ "ccccccccccccccccccc測驗優級類", "測驗高級類", "族語振興人員研習" ],
+      "address": "台北市中正區愛國西路100號100樓",
+      "phone": "0955-123456, 02-23456789"
+    },
   ],
   "hrlogin":[
 	  {
