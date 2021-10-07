@@ -179,20 +179,6 @@
       "phone": "0955-123456, 02-23456789"
     }
   ],
-  "hrlogin": [
-    {
-      "account": "test",
-      "password": "123",
-      "code": 200,
-      "msg": "success",
-      "data": {
-        "user_id": 1,
-        "display_name": "苗栗縣政府原住民族事務中心原住民族行政課-張原博課員",
-        "account": "test",
-        "auth_token": "f79fbca62ce7974ce1c1c015e27fea0881159c1e27fa8ac41a7bf0c6e7b21a09"
-      }
-    }
-  ],
   "comments": [],
   "profile": {
     "name": "typicode"
