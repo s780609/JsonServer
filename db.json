@@ -181,6 +181,8 @@
   ],
   "hrlogin": [
     {
+	  "account": "test",
+      "password": "123",
       "code":200, 
       "msg":"success",   
       "data":{    
