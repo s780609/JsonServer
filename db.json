@@ -191,11 +191,6 @@
         "account": "test",
         "auth_token": "f79fbca62ce7974ce1c1c015e27fea0881159c1e27fa8ac41a7bf0c6e7b21a09"
       }
-    },
-    {
-      "account": "test123",
-      "password": "123456",
-      "token": "test123123456"
     }
   ],
   "comments": [],
