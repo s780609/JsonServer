@@ -60,6 +60,29 @@
       "mobile": "0928089611",
       "email": "321@gmail.com",
       "service_agency": "原博多媒體設計有限公司"
+    },
+    {
+      "id": "1",
+      "title": "吳美金 Dawa Lisin ( 72歲, b.1949) | 秀姑巒阿美語",
+      "sex": "2",
+      "skill_type": [
+        "族語認證優級",
+        "教學年資"
+      ],
+      "skills": [
+        "族語認證優級-南勢阿美語-民國99年",
+        "教學人才"
+      ],
+      "address": "241新北市三重區光明路13巷11號",
+      "permanent_addr": "新北市三芝區中正路一段100號",
+      "active_area": [
+        "臺北市",
+        "新北市"
+      ],
+      "tel": "26362230",
+      "mobile": "0928089611",
+      "email": "321@gmail.com",
+      "service_agency": "原博多媒體設計有限公司"
     }
   ],
   "hrlogin": {
