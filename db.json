@@ -87,7 +87,11 @@
     {
     "auth_token": "ccc",
     "feature": ["任務列表"],
-    "account" : ["審查委員帳號"]
+    "account" : ["委員帳號"]
     }
-  ]
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
 }
