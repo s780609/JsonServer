@@ -20,10 +20,11 @@
       "auth_token": "aaa"
     },
     {
-      "account": "member",
+      "account": "editmember",
       "password": "123",
       "code": 200,
-      "msg": "success"
+      "msg": "success",
+      "auth_token": "bbb"
     } 
   ],
   "auth" : [{
