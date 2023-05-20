@@ -25,7 +25,14 @@
       "code": 200,
       "msg": "success",
       "auth_token": "bbb"
-    } 
+    },
+    {
+      "account": "editmember",
+      "password": "123",
+      "code": 200,
+      "msg": "success",
+      "auth_token": "bbb"
+    }
   ],
   "auth" : [{
     "auth_token": "aaa",
