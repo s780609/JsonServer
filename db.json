@@ -17,21 +17,24 @@
       "password": "123",
       "code": 200,
       "msg": "success",
-      "auth_token": "aaa"
+      "auth_token": "aaa",
+      "permission": "0"
     },
     {
       "account": "editmember",
       "password": "123",
       "code": 200,
       "msg": "success",
-      "auth_token": "bbb"
+      "auth_token": "bbb",
+      "permission": "1"
     },
     {
       "account": "reviewmember",
       "password": "123",
       "code": 200,
       "msg": "success",
-      "auth_token": "ccc"
+      "auth_token": "ccc",
+      "permission": "2"
     }
   ],
   "auth" : [{
@@ -47,7 +50,7 @@
     {
     "auth_token": "ccc",
     "feature": ["任務列表"],
-    "account" : ["委員帳號"]
+    "account" : ["審查委員帳號"]
     }
   ],
   "comments": [],
