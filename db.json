@@ -13,6 +13,11 @@
       }
     },
     {
+      "account": "test",
+      "password": "123456",
+      "url":"https://s780609.github.io/uitc-recruit/haagen-dazs.html"
+    },
+    {
       "account": "admin",
       "password": "123",
       "code": 200,
