@@ -59,6 +59,7 @@
     }
   ],
   "haagen-dazs": [{
+    "id":1,
     "type":"vanilla",
     "orderingPerson": "archer"
   }],
