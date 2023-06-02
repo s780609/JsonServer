@@ -58,7 +58,10 @@
     "account" : ["審查委員帳號"]
     }
   ],
-  "comments": [],
+  "haagen-dazs": [{
+    "type":"vanilla",
+    "orderingPerson": "archer"
+  }],
   "profile": {
     "name": "typicode"
   }
