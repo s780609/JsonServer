@@ -63,7 +63,7 @@
     "type":"vanilla",
     "orderingPerson": "archer"
   }],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    { "id": "1201", "empNo": "403", "name": "林書證", "birthday": "70/01/01" }
+  ]
 }
